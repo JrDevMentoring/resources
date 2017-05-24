@@ -5,6 +5,8 @@
 
 ## Ruby
 * [Design patterns in ruby](https://github.com/nslocum/design-patterns-in-ruby)
+* [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x-0)
+* [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x-0)
 
 ## Ruby on Rails
 * [Rails Testing](https://github.com/eliotsykes/rspec-rails-examples)
